@@ -54,8 +54,6 @@ public class Operadores {
         numero =  numero * -1; // Transformando o valor da variável em positivo
 
         System.out.println(numero);
-
-        //teste
         
     }
 }
