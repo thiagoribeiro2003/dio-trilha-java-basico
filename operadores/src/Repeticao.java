@@ -4,10 +4,10 @@ public class Repeticao {
         int numero = 5;
 
         // (Incremento)
-        numero++; /*: numero = numero + 1; */
+        numero++; /*: numero = numero + 1; (Resultado = 6) */
 
         /* Decremento */
-        numero-- /*: numero = numero -1*/;
+        numero-- /*: numero = numero -1 (Resultado = 5)*/;
         
         System.out.println(numero);
 
